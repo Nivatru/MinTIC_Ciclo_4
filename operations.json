@@ -1,0 +1,6 @@
+[
+    {"monto": 2000, "tipo": "ingreso", "categoria": "sueldo", "fecha": "10/01/2015"},
+    {"monto": 2000, "tipo": "ingreso", "categoria": "sueldo", "fecha": "10/02/2015"},
+    {"monto": 1000, "tipo": "gasto", "categoria": "sueldo", "fecha": "10/03/2015"}
+
+]
